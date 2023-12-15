@@ -27,9 +27,9 @@ public class VNPayConfig {
 	
 //	public static String vnp_ReturnUrl="https://e5cb-2405-4802-4e19-fad0-f1a9-cf9b-72e1-4c8f.ngrok-free.app/usedService/vnpay_return";	
 	//mã website của merchant trên hệ thống của vnpay
-	public static String vnp_TmnCode="8DUW0DL3";
+	public static String vnp_TmnCode="8O1NHS8R";
 	//mã khóa bí mật
-	public static String secretKey="UESYJZCPPPELUWTSNHTVIWBBPDKMMUQA";
+	public static String secretKey="XSMBWIAREXTSBGKKJABLGQOFUYSCIKYL";
 	public static String vnp_ApiUrl="https://sandbox.vnpayment.vn/merchant_webapi/api/transaction";
 	
 	public static String hmacSHA512(final String key, final String data) {
